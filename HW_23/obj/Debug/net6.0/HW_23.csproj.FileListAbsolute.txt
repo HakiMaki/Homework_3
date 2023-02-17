@@ -1,0 +1,15 @@
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.csproj.AssemblyReference.cache
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.AssemblyInfoInputs.cache
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.AssemblyInfo.cs
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.csproj.CoreCompileInputs.cache
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/bin/Debug/net6.0/HW_23
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/bin/Debug/net6.0/HW_23.deps.json
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/bin/Debug/net6.0/HW_23.runtimeconfig.json
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/bin/Debug/net6.0/HW_23.dll
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/bin/Debug/net6.0/HW_23.pdb
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.dll
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/refint/HW_23.dll
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.pdb
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/HW_23.genruntimeconfig.cache
+/Users/hakimazisov/Desktop/seminar_17.02/HW_23/obj/Debug/net6.0/ref/HW_23.dll
